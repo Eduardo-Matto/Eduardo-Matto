@@ -12,5 +12,4 @@
    <a href = "mailto:eduardomatto15@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    
   ![snake gif](https://github.com/Eduardo-Matto/Eduardo-Matto/blob/output/github-contribution-grid-snake.svg)
-  
 </div>
